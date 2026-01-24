@@ -19,6 +19,8 @@ It demonstrates — in plain code and plain language — how a platform could ra
 The pipeline is intentionally simple, explicit, and inspectable.
 It is designed to be understood, not optimized.
 
+See the `/docs` directory for example audit artifacts, including a plain-English audit summary and a machine-readable audit log.
+
 ---
 
 ## For press & regulators

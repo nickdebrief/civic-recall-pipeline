@@ -10,7 +10,7 @@ This repository contains an audit-first reference implementation of a civic-cont
 
 ## Pipeline overview
 
-![Civic Recall Pipeline](diagrams/civic_recall_pipeline.png)
+![Civic Recall Pipeline](./diagrams/civic_recall_pipeline.png)
 
 **Audience note:** This repository is written to be readable by journalists, regulators, civil-society reviewers, and non-technical audiences, as well as engineers.
 

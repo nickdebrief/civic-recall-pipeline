@@ -8,6 +8,10 @@ Transparent, auditable reference model of a civic-content ranking system
 
 This repository contains an audit-first reference implementation of a civic-content ranking pipeline.
 
+## Pipeline overview
+
+![Civic Recall Pipeline](diagrams/civic_recall_pipeline.png)
+
 **Audience note:** This repository is written to be readable by journalists, regulators, civil-society reviewers, and non-technical audiences, as well as engineers.
 
 It demonstrates — in plain code and plain language — how a platform could rank public-interest content while preserving:

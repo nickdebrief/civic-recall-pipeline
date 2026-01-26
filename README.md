@@ -8,6 +8,12 @@ Transparent, auditable reference model of a civic-content ranking system
 
 This repository contains an audit-first reference implementation of a civic-content ranking pipeline.
 
+## Status & Intended Use
+
+This repository is provided as a neutral, educational reference implementation.
+
+See: [Status & Intended Use](./Status%20%26%20Intended%20Use.md)
+
 ## Pipeline overview
 
 ![Civic Recall Pipeline](./diagrams/civic_recall_pipeline.png)

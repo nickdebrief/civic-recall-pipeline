@@ -9,6 +9,7 @@ Transparent, auditable reference model of a civic-content ranking system
 This repository contains an audit-first reference implementation of a civic-content ranking pipeline.
 
 For design rationale and reviewer guidance, see the project Wiki.
+
 https://github.com/nickdebrief/civic-recall-pipeline/wiki
 
 ## Status & Intended Use

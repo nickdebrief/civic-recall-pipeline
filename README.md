@@ -76,7 +76,7 @@ Interpretable insights
 ]
 ```
 
-Development Status
+## Development Status
 
 Version: v0.1
 
@@ -85,16 +85,20 @@ Current focus:
 • audit logging
 • decision traceability
 
-Approach
+## Approach
 
 Observation sometimes becomes clearer when structure is applied.
 
 Not designed for attention.
 Designed for understanding.
 
-Repository
+## Repository
 
-(https://github.com/nickdebrief/civic-recall-pipeline)
+https://github.com/nickdebrief/civic-recall-pipeline
+
+Part of the Civic Decision Systems structure:
+
+- Civic Decision Engine — v10: https://github.com/nickdebrief/civic-decision-engine
 
 ## Related Components
 
